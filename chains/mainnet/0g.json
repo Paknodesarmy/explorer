@@ -2,14 +2,14 @@
     "chain_name": "zero-gravity-testnet",
     "api": [
         {
-            "address": "https://0g-testnet-api.validator247.com", 
-            "provider": "Validator247"
+            "address": "https://og-testnet-api.blockhub.id", 
+            "provider": "blockhub"
         }
     ], 
     "rpc": [
         {
-            "address": "https://0g-testnet-rpc.validator247.com", 
-            "provider": "Validator247"
+            "address": "https://og-testnet-rpc.blockhub.id", 
+            "provider": "blockhub"
         }
     ],
     "sdk_version": "0.47.3",
