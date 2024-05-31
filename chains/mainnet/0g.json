@@ -1,5 +1,5 @@
 {
-    "chain_name": "zero-gravity-testnet",
+    "chain_name": "0g",
     "api": [
         {
             "address": "https://og-testnet-api.blockhub.id", 
