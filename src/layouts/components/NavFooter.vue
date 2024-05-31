@@ -11,10 +11,10 @@
       By&nbsp;
       <a
         class="link text-primary no-underline"
-        href="https://validator247.com"
+        href="https://paknodesarmy.xyz"
         target="_blank"
         rel="noopener noreferrer"
-        >Validator247</a
+        >PakNodesArmy</a
       >
     </div>
     <div
@@ -22,7 +22,7 @@
     >
       <a
         class="link text-primary no-underline"
-        href="https://github.com/Validator247"
+        href="https://github.com/Paknodesarmy"
         target="noopener noreferrer"
         >Github</a
       >
