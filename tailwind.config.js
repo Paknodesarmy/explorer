@@ -20,7 +20,7 @@ module.exports = {
       {
         light: {
           ...require('daisyui/src/theming/themes')['[data-theme=light]'],
-          primary: '#ffd0d7',
+          primary: '#666cff',
         },
       },
       {
