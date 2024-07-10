@@ -2,14 +2,14 @@
     "chain_name": "0g",
     "api": [
         {
-            "address": "https://og-testnet-api.blockhub.id", 
-            "provider": "blockhub"
+            "address": "https://api.0g-test.paknodesarmy.xyz", 
+            "provider": "Paknodesarmy"
         }
     ], 
     "rpc": [
         {
-            "address": "https://og-testnet-rpc.blockhub.id", 
-            "provider": "blockhub"
+            "address": "https://rpc.0g-test.paknodesarmy.xyz", 
+            "provider": "Paknodesarmy"
         }
     ],
     "sdk_version": "0.34.27",
